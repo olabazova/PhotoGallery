@@ -7,6 +7,7 @@ gem 'rmagick'
 gem 'carrierwave'
 gem 'bootstrap-sass', '>= 3.4.1'
 gem 'autoprefixer-rails'
+gem 'jquery-rails'
 #gem 'fancybox-rails'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
